@@ -1,0 +1,11 @@
+#post-list div {
+  cursor: pointer;
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+#post-detail {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
