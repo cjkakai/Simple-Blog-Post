@@ -82,7 +82,7 @@ function addPostToDOM(post) {
   postList.appendChild(img);
 }
 
-// 5. Main entry point
+// Main entry point
 function main() {
   displayPosts();
   addNewPostListener();
